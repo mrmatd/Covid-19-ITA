@@ -2,7 +2,6 @@
 layout: default
 title: Covid-19-ITA
 description: Grafici sull'andamento della pandemia di Covid-19 in Italia
-date: 2020-04-14 14:48
 ---
 
 # Introduzione
