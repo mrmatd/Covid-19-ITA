@@ -12,7 +12,7 @@ Per garantire un equo confronto vengono mostrati i dati relativi, ovvero per mil
 
 Le fonti dei dati sono il [repository](https://github.com/pcm-dpc/COVID-19) del Dipartimento di Protezione Civile e il [sito](http://dati.istat.it/) dell'Istat (quest'ultimo per il solo numero di abitanti).
 
-Per non appesantire i grafici, l'aggiornamento avviene ogni 3 giorni.
+Per non appesantire i grafici, l'aggiornamento avviene ogni 7 giorni.
 
 # Grafici
 
